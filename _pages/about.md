@@ -2,24 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_picture.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+#  more_info: >
+#    <p>#136 ZhongKang Road, Next Generation Park</p>
+#    <p>FuTian District, SZ</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, thanks for stopping by! 👋
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm currently a data engineer and software developer at [SMY Cloud](https://www.smycloud.com/). My work primarily include user portrait, transaction behavior analysis, device fingerprinting and loan companies' advertising optimization.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+As a data engineer, I enjoy bridging the gap between theory and industrial application - combining my technical skills with background of theoretical math and statistics to create a fundamentally robust analysis. My goal is to always build models that are scalable and efficient under the hood while providing strong, illustrative and precise conclusion.
+
+Prior to work at SMY, I received my bachelor degree at [Hunan University of Technology and Business (HUTB)](https://www.hutb.edu.cn/), majored in **Information and Computing Science**. In sophomore year, I visited [Brown University](https://www.brown.edu) as a summer student. During my undergrad, I also spent a good amount of time at the **Hunan Province Mobile Business Intelligence Lab** of HUTB, under the guidance of [Prof. Liang](https://scholar.google.com/citations?hl=en&user=-nh3cIMAAAAJ). My research interest combines aspects of statistical models, recommendation algorithm and classification.
+
+Feel free to connect with me via <a href="miaofu1997@gmail.com">miaofu1997@gmail.com</a>!
+
+
