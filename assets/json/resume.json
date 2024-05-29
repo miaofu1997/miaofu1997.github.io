@@ -59,7 +59,15 @@
       "startDate": "2015-09-01",
       "endDate": "2019-07-01",
       "score": "GPA: 3.43/4 (Top 7%)",
-      "courses": ["Mathematical Analysis", "Probability and Statistics", "Data Structure", "Database Systems", "Operating System Engineering", "Introduction To Algorithms", "Machine Learning"]
+      "courses": [
+        "Mathematical Analysis",
+        "Probability and Statistics",
+        "Data Structure",
+        "Database Systems",
+        "Operating System Engineering",
+        "Introduction To Algorithms",
+        "Machine Learning"
+      ]
     },
     {
       "institution": "Brown University",
@@ -94,21 +102,17 @@
     {
       "name": "Programming",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python", "SQL(Hive/Spark SQL)", "Java", "Bash/Shell"
-      ]
-    },{
+      "keywords": ["Python", "SQL(Hive/Spark SQL)", "Java", "Bash/Shell"]
+    },
+    {
       "name": "Frameworks",
       "icon": "fa-solid fa-sitemap",
-      "keywords": [
-        "TensorFlow", "PyTorch", "Hadoop", "Spark"
-      ]
-    },{
+      "keywords": ["TensorFlow", "PyTorch", "Hadoop", "Spark"]
+    },
+    {
       "name": "Tools & Platforms",
       "icon": "fa-solid fa-database",
-      "keywords": [
-        "Git", "Linux", "Hive", "ClickHouse", "MySQL", "Excel"
-      ]
+      "keywords": ["Git", "Linux", "Hive", "ClickHouse", "MySQL", "Excel"]
     }
   ],
   "languages": [
@@ -127,9 +131,7 @@
     {
       "name": "Computer Science",
       "icon": "fa-solid fa-laptop",
-      "keywords": [
-        "Data Science", "Machine Learning", "Big Data", "Cloud Computing"
-      ]
+      "keywords": ["Data Science", "Machine Learning", "Big Data", "Cloud Computing"]
     }
   ]
 }

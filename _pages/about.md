@@ -26,5 +26,3 @@ As a data engineer, I enjoy bridging the gap between theory and industrial appli
 Prior to work at SMY, I received my bachelor degree at [Hunan University of Technology and Business (HUTB)](https://www.hutb.edu.cn/), majored in **Information and Computing Science**. In sophomore year, I visited [Brown University](https://www.brown.edu) as a summer student. During my undergrad, I also spent a good amount of time at the **Hunan Province Mobile Business Intelligence Lab** of HUTB, under the guidance of [Prof. Liang](https://scholar.google.com/citations?hl=en&user=-nh3cIMAAAAJ). My research interest combines aspects of statistical models, recommendation algorithm and classification.
 
 Feel free to connect with me via <a href="miaofu1997@gmail.com">miaofu1997@gmail.com</a>!
-
-
