@@ -163,10 +163,12 @@ disqus_shortname: Miao # put your disqus shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+# you can display them in your blog by adding a link to the RSS feed. (用external_sources可以把发布在别的网站的博文引用过来)
+
+#external_sources:
+#  - name: medium.com
+#    rss_url: https://medium.com/@al-folio/feed
+
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -292,8 +294,10 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
-display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+#display_tags: ["formatting", "images", "links", "math", "code"] # these tags will be displayed on the front page of your blog
+display_tags: ["ai", "math", "code"] # these tags will be displayed on the front page of your blog
+#display_categories: ["blockquotes"] # these categories will be displayed on the front page of your blog
+display_categories: ["study-notes"] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
