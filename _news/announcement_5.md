@@ -13,4 +13,5 @@ It is an annual contest for undergraduates all over the world, organized by CSIA
 
 ---
 
-Project details to be updated, please come back later for more information.
+For the competition topic details from that year (2017), please visit [here](/assets/pdf/CUMCM-2017-problem-B.pdf). 
+To read our award-winning paper, please click [here](/assets/pdf/CUMCM-2017-Solved-Paper.pdf).
